@@ -2,11 +2,7 @@ var adventure_map = {
     "root_header": "<h1>Down to the Wire - <a href='https://twitter.com/worldofchris'>@worldofchris</a> <a href='https://twitter.com/search?q=%23agilecam'>#agilecam</a></h1>" +
                     "<p>This is the online version of the <a href='http://agilecambridge.net/ac2014/sessions/index.php?session=36'>Mega Poster Talk</a> I gave at Agile Cambridge 2014. " +
                     "It tells the story of a project to build a 'video postcard' maker through the artifacts created and " +
-                    "pinned to the <a href='#/node/project-wall'>Project Wall</a> during the two weeks of this fixed date, fixed cost project." +
-                    "<p>In the spirit of the Agile Manifesto " +
-                    "valuing working software over comprehensive documentation, you can try the resulting software out at " +
-                    "<a href='http://agilecam.worldofchris.com'>agilecam.worldofchris.com</a>. and then read about how it was made by exploring the " +
-                    "artifacts below.</p>" +
+                    "pinned to the <a href='#/node/project-wall'>Project Wall</a> during the two weeks of this fixed date, fixed cost project.</p>" +
                     '<i>Run the <a href="SpecRunner.html">tests</a> for this talk.</i>',
     "root": [{"name":"finbar","x":200,"y":687},{"name":"bdd-tests","x":789,"y":744},{"name":"beanstalk","x":112,"y":19},{"name":"node-lunch","x":471,"y":718},{"name":"skype-conversation-2","x":328,"y":717},{"name":"agile-manifesto","x":988,"y":133},{"name":"orig-arch","x":198,"y":146},{"name":"final-arch","x":72,"y":147},{"name":"richer-quote","x":99,"y":247},{"name":"story-map","x":328,"y":278},{"name":"skype-conversation","x":855,"y":457},{"name":"video-conference","x":634,"y":718},{"name":"cfd","x":328,"y":547},{"name":"aws-impl","x":329,"y":844},{"name":"soviet-style","x":148,"y":407},{"name":"bash-container","x":980,"y":578},{"name":"usage-stats","x":859,"y":282},{"name":"screen-shots","x":326,"y":65},{"name":"bare-bones-screen-shots","x":326,"y":169},{"name":"social-feedback","x":857,"y":361},{"name":"two-purples","x":855,"y":599},{"name":"prototype","x":793,"y":149}],
     "options":[
